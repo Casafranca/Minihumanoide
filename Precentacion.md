@@ -1,2 +1,0 @@
-# Minihumanoide
-Recopilacion de datos
